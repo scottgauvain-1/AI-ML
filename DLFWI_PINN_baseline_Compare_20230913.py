@@ -3,7 +3,7 @@
 """
 Created on Tue Jun  6 11:52:55 2023
 
-@author: jlhardi
+@author: sjgauva
 """
 
 import deepxde as dde
